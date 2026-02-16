@@ -22,6 +22,11 @@ The repository is structured by topic to make it easy to reference specific conc
 * **Algorithms:** Sorting, searching, and traversal methods.
 * **LeetCode:** Solutions categorized by problem type and difficulty.
 
+## Study Modules
+
+* [**Big O Notation**](./01-Big-O-Notation/README.md) - Analysis of time and space complexity.
+
+
 ## Tech Stack
 
 * **Language:** JavaScript
