@@ -1,6 +1,6 @@
 # dsa-leetcode-prep
 
-This repository contains my progress, code implementations, and notes for the Udemy course: **JavaScript Data Structures & Algorithms + LeetCode Exercises**.
+This repository contains my progress, code implementations, and notes for the Udemy course: [**JavaScript Data Structures & Algorithms + LeetCode Exercises**](https://www.udemy.com/course/data-structures-algorithms-javascript/).
 
 ## Course Overview
 
