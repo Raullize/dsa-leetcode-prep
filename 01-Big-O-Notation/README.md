@@ -25,6 +25,7 @@ Space complexity is a measure of the amount of working storage an algorithm need
 ### O(n): Linear Time
 *   **Description**: Directly proportional to the data set size. If you double the input, the time doubles.
 *   **Example**: Looping through an array.
+*   [**See detailed example**](./O-n-Linear-Time.md)
 
 ### O(n log n): Linearithmic Time
 *   **Description**: A combination of linear and logarithmic time. Often seen in efficient sorting algorithms.
