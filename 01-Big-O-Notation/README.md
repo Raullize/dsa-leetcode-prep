@@ -1,8 +1,3 @@
-### Different Terms for Input
-*   When an algorithm takes multiple inputs, the Big O complexity depends on *all* of them.
-*   *Example*: `O(a + b)` or `O(a * b)`.
-*   [**See detailed example**](./Different-Terms-for-Input.md)
-
 <- [Back to README.md](../README.md)
 
 # Big O Notation
@@ -70,5 +65,19 @@ Space complexity is a measure of the amount of working storage an algorithm need
 *   Big O notation ignores constants because we are interested in the growth rate.
 *   *Example*: `O(2n)` simplifies to `O(n)`. `O(500)` simplifies to `O(1)`.
 *   [**See detailed example**](./Drop-Constants.md)
+
+### Different Terms for Input
+*   When an algorithm takes multiple inputs, the Big O complexity depends on *all* of them.
+*   *Example*: `O(a + b)` or `O(a * b)`.
+*   [**See detailed example**](./Different-Terms-for-Input.md)
+
+## Data Structures Complexity
+
+### Arrays
+*   **Push/Pop**: O(1) - Constant time (end of array).
+*   **Shift/Unshift**: O(n) - Linear time (re-indexing required).
+*   **Splice**: O(n) - Linear time (re-indexing required).
+*   **Access**: O(1) - Constant time (by index).
+*   [**See detailed example**](./Big-O-Arrays.md)
 
 <- [Back to README.md](../README.md)
