@@ -13,7 +13,9 @@ Understanding these concepts is crucial because almost all non-primitive data st
     *   Understand constructors and methods.
     *   Analogy: The "Cookie Cutter".
 
-*   **Pointers** *(Coming Soon)*
+*   [**Pointers**](./Pointers.md)
     *   Understand how variables reference objects in memory.
     *   Learn the difference between value types and reference types.
     *   Understand how objects are linked together.
+    *   **Garbage Collection**: How JS frees up memory.
+
