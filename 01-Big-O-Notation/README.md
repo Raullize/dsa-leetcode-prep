@@ -17,6 +17,7 @@ Space complexity is a measure of the amount of working storage an algorithm need
 ### O(1): Constant Time
 *   **Description**: Doesn't depend on the size of the data set. The operation takes the same amount of time regardless of input size.
 *   **Example**: Accessing an array element by its index.
+*   [**See detailed example**](./O-1-Constant-Time.md)
 
 ### O(log n): Logarithmic Time
 *   **Description**: Splits the data in each step (divide and conquer). The number of operations grows very slowly as input size increases.
