@@ -57,6 +57,7 @@ Space complexity is a measure of the amount of working storage an algorithm need
 ### Drop Non-Dominant Terms
 *   When calculating complexity, focus on the term that grows the fastest.
 *   *Example*: In `O(n² + n)`, `n²` grows much faster than `n` for large inputs, so we simplify it to `O(n²)`.
+*   [**See detailed example**](./Drop-Non-Dominant-Terms.md)
 
 ### Drop Constants
 *   Big O notation ignores constants because we are interested in the growth rate.
