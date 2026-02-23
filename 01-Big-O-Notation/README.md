@@ -1,3 +1,8 @@
+### Different Terms for Input
+*   When an algorithm takes multiple inputs, the Big O complexity depends on *all* of them.
+*   *Example*: `O(a + b)` or `O(a * b)`.
+*   [**See detailed example**](./Different-Terms-for-Input.md)
+
 <- [Back to README.md](../README.md)
 
 # Big O Notation
