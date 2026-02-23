@@ -25,6 +25,8 @@ The repository is structured by topic to make it easy to reference specific conc
 ## Study Modules
 
 * [**Big O Notation**](./01-Big-O-Notation/README.md) - Analysis of time and space complexity.
+* [**Classes & Pointers**](./02-Classes-Pointers/README.md) - Understanding Classes and memory management.
+
 
 
 ## Tech Stack
