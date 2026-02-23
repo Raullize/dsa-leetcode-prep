@@ -60,5 +60,6 @@ Space complexity is a measure of the amount of working storage an algorithm need
 ### Drop Constants
 *   Big O notation ignores constants because we are interested in the growth rate.
 *   *Example*: `O(2n)` simplifies to `O(n)`. `O(500)` simplifies to `O(1)`.
+*   [**See detailed example**](./Drop-Constants.md)
 
 <- [Back to README.md](../README.md)
