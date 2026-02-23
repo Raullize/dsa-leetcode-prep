@@ -22,6 +22,7 @@ Space complexity is a measure of the amount of working storage an algorithm need
 ### O(log n): Logarithmic Time
 *   **Description**: Splits the data in each step (divide and conquer). The number of operations grows very slowly as input size increases.
 *   **Example**: Binary search.
+*   [**See detailed example**](./O-log-n-Logarithmic-Time.md)
 
 ### O(n): Linear Time
 *   **Description**: Directly proportional to the data set size. If you double the input, the time doubles.
