@@ -10,7 +10,7 @@ Consider an array with the following elements:
 
 ```javascript
 const myArray = [11, 3, 23, 7];
-// Indexes:       0   1   2   3
+// Indexes:      0   1   2   3
 ```
 
 ## O(1): Constant Time Operations
