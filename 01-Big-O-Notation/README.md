@@ -34,6 +34,7 @@ Space complexity is a measure of the amount of working storage an algorithm need
 ### O(n²): Polynomial Time (Quadratic)
 *   **Description**: Performance is directly proportional to the square of the size of the input data set. Often involves nested iterations.
 *   **Example**: Bubble sort (nested loops).
+*   [**See detailed example**](./O-n2-Quadratic-Time.md)
 
 ## Complexity Bounds
 
